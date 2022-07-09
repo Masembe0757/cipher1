@@ -1,0 +1,107 @@
+ .blue{
+	    	color: indianred;
+	    	border-width: 10px;
+	    	text-align: center;
+	    }
+	    .und{
+	    	text-decoration: underline;
+	    }
+	    img{
+	    position: relative;
+	    	max-width:100% ;
+	    }
+	    }
+		p{
+		color: green ;
+		font-size: 15pt ;
+		}
+		body{
+			font-family: verdana;
+			font-weight: bold;
+			margin: 0;
+		}
+		.form{
+			color: blueviolet;
+			text-decoration-style: wavy;
+		}
+		#img{
+			margin-right: auto;
+			margin-left: auto;
+		}
+		#list{
+			list-style:urdu ;
+			color: deeppink;
+		}
+		#hobby{
+			text-decoration: none;
+			font-size: 20px;
+			color: indianred;
+	    	border: 1px solid black;
+	    	border-radius: 20%;
+	    	background-color: #ffcf79;
+		}
+		#about{
+			text-decoration: none;
+			font-size: 20px;
+			color: indianred;
+	    	border: 1px solid black;
+	    	float: right;
+	    	border-radius: 20%;
+	    	background-color: lightskyblue;
+		}
+		.gh{
+			background-image: url("Cloud.png");
+			margin margin-left: o;
+			border: double;
+			border-color: red;
+			background-size: cover;
+		}
+		.but{
+			box-sizing: border-box;
+			border-radius: 15%;
+			background-color: lightgrey ;
+		}
+		#pdiv{
+			background-color: #ffcf79;
+			border-radius: 10%;
+			border-bottom: dashed;
+			border-color: red;
+			padding-left: 10px;
+			padding-top: 5px;
+
+		}
+		#sdiv{
+			background-image: url("Earth.jpg");
+			padding-top: 5px;
+			text-align: left;
+			list-style: disc;
+			border-radius: 30px;
+			color: yellowgreen;
+			background-size: cover;
+		}
+		#Sec{
+			background-image: url("Comp.jpg");
+			border-style: ridge;
+			background-size: cover;
+		}
+		}
+		.hov{
+			background-color: blueviolet;
+
+		}
+		.but:hover{
+			color: yellowgreen;
+		}
+		#hobby:hover{
+			color: lightskyblue;
+		}
+		#about:hover{
+			color: #ffcf79;
+		}
+		#txt{
+			text-align: center;
+			font-family: serif,arial,verdana;
+			color: skyblue;
+		}
+		
+	
